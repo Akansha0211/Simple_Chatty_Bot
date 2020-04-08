@@ -10,6 +10,8 @@
       <module name="Problems-Fill_the_declaration_test" target="11" />
       <module name="Problems-Hello,_Java_platform_main" target="11" />
       <module name="Problems-Hello,_Java_platform_test" target="11" />
+      <module name="Problems-Hiring_a_chef_main" target="11" />
+      <module name="Problems-Hiring_a_chef_test" target="11" />
       <module name="Problems-Incorrect_comments_main" target="11" />
       <module name="Problems-Incorrect_comments_test" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_main" target="11" />

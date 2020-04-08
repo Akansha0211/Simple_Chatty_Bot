@@ -1,12 +1,20 @@
+//import java.io.EOFException;
 import java.util.Scanner;
 
 class Main {
+    //private static Object EOFException;
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.next();
-        scanner.next();
+        String a = scanner.next();
+        String b =scanner.next();
         scanner.nextLine();
-        System.out.println();
+        String c = scanner.nextLine();
+        System.out.println(a);
+        System.out.println(b);
+        for( String  var : c.split(" ")){
+            System.out.println(var);
+        }
 
 
     }
